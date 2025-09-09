@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 123456
 -----------
 7 8 9
 
 Hello world!
+=======
+123456
+>>>>>>> parent of d9fdafa (Added some changes)
